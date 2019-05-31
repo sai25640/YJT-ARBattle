@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 936419553
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1668b60c309d9e0a39c32420b93eaf95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7de26524b7a3f4b322dfbc6078fe75b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc4dafd467406da4ab7d75c474c9c44e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae7cf47582cf35f4d8d1b43b675cc6e3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/GoPrefab/Player.prefab
+Dependencies: []

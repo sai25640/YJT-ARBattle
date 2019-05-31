@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 477223900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 825bae7a34bd5adc7e33a45ad5056f47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4cf6ab8b2f2231a5dc585a9c62496ce7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f850b3da13c6d114d9085cae84e04411, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d39eb77d2763c88419739600269d394f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/AR/ImageTarget.prefab
+Dependencies: []

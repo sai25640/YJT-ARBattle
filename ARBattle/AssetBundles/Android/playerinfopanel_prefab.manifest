@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4091141863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2574881638e8eadc9d61a6f8df00bdb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a6f4ae810776f9715b5e0791d4586bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 252d85a778db5bb448d0053f5526ddc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4211833ca4e7a4984b2d973425a62933, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/UIPrefab/PlayerInfoPanel.prefab
+Dependencies: []

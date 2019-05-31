@@ -1,0 +1,43 @@
+﻿{
+    "maxLevel": 3,
+    "levels": [
+        {
+            "level": 1,
+            "total": 1,
+            "enemyArmys": [
+                {
+                    "type": "普通怪",
+                    "count": "1",
+					"prefabName": "ZombieB"
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "total": 3,
+            "enemyArmys": [
+                {
+                    "type": "远程怪",
+                    "count": "2",
+                    "prefabName": "ZombieB"
+                },
+                {
+                    "type": "精英怪",
+                    "count": "1",
+                    "prefabName": "MonsterA"
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "total": 1,
+            "enemyArmys": [
+                {
+                    "type": "Boss",
+                    "count": 1,
+                    "prefabName": "UnkaPolyArtA"
+                }
+            ]
+        }
+    ]
+}

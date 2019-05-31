@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3451608326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5c269722688dcfec3d556fd60206b48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Model/Malbers Animations/Common/Audio/fireExplosion1.wav
+Dependencies: []

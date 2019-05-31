@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 741285208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6234863ab4fb5d27b5c5d54b28997a75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/3rd/KriptoFX/Realistic Effects Pack v4/Audio/FireExplosion2.wav
+Dependencies: []

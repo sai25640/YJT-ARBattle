@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1588251358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6999842c01544f8c20753dab91c111a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b04a64241a11f52ee3f532deb3694df9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56af4e54f65d077429393d3845b7f448, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/GoPrefab/GameManager.prefab
+Dependencies: []

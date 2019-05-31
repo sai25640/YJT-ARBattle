@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 657150110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31778f60f6a5f42a8073a6fbd6dd724d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0622d2916f81ab6b7bd30c0a0845312b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30e7f18ea65becc4597b04ef4813d8ec, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/GoPrefab/SocketServer.prefab
+Dependencies: []
