@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 731494797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e2e90a4d0e35cf2abc0dc844d0dd331
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c79622bf8f961ac149ba8d5e44a08ea4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8410750655a2d2f489c642c14c30aaec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12403b86450fee944b030460c52681a0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Effect/Blue_Effect3.prefab
+Dependencies:
+- D:/Projects/ARBattle/AssetBundles/Android/blue_effect5_explosion_prefab

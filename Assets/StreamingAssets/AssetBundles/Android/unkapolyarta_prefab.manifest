@@ -1,0 +1,129 @@
+ManifestFileVersion: 0
+CRC: 4067182807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b86d2171ae98a1576f3615f563bb1c99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1d4f8a476c80812195cb7a6079d82477
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f26783105052d1c4dbcdf416634cbbdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c4597515aa1db34e8569266f34c5da0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a37bb661da0257f4787b7e6582189295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d28118109a4a004ea7f53889baf6f50, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b06d2c02d8bc52146b15d631cd842ec6, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f7b187428519474db57076680c22084, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ba6a0c4ae41dba499b324d6ba760f90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe61f236aa8cb0e449435cb078af520a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac6e50f662ec4964e83dd004bd2183b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce47ee178f08fcc4a9dba4ed5f219754, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40c9e1c739667d64191e8be828fadc68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9deb6e7717bd59489eda60ab51b81bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b179e9684211a54498471a6c7679ac86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b4de088e089c164bb239be84964ea4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 181eb898d7c8aa441b8df05cec988f7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7daa3a8f28e2204f83a14fc72983e51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d0f555a1c438be4bb1d7fe9bbd4e649, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e781cdad4f49ae4e9156727711ebf8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cfe5b9b31f86d7409eacee80dce9b30, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e43a5e8c084928e4989593e622a92826, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae023d0d90c0b1d4790d174668692b33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37fac21d1f093d344816942d1abce94e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78fcdc7f635dc6143a5ffbcc404315d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Enemy/UnkaPolyArtA.prefab
+Dependencies:
+- D:/Projects/F3/ARBattle/AssetBundles/Android/fireexit_wav

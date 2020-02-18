@@ -1,0 +1,51 @@
+﻿{
+    "maxLevel": 3,
+    "levels": [
+        {
+            "level": 1,
+            "total": 5,
+			"spawnTime": 3,
+            "enemyArmys": [   	         
+	            {
+		            "type": "普通怪",
+		            "count": 5,
+		            "prefabs":[ "ZombieB", "ZombieC","ZombieD","ZombieE"]		          	         
+	            }  
+            ]
+        },
+        {
+            "level": 2,
+            "total": 15,
+            "spawnTime": 3,
+            "enemyArmys": [
+                {
+                    "type": "普通怪",
+                    "count": "15",
+                    "prefabs":[ "ZombieB", "ZombieC","ZombieD","ZombieE"]	
+                }          
+            ]
+        },
+        {
+            "level": 3,
+            "total": 17,
+            "spawnTime": 3,
+            "enemyArmys": [
+                {
+                    "type": "Boss",
+                    "count": 1,
+                    "prefabs":["BossB"]	                  
+                },
+	            {
+		            "type": "Boss",
+		            "count": 1,
+		            "prefabs":["BossA"]	                  
+	            },
+	            {
+		            "type": "普通怪",
+		            "count": "15",
+		            "prefabs":[ "ZombieB", "ZombieC","ZombieD","ZombieE"]	
+	            }
+            ]
+        }
+    ]
+}

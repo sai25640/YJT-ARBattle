@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3042726266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9a73823ab0da923e7c33d9399d9a451
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 169a405bde80c68007b9614ad7f830cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f08ea230502dad4fb66680c1c3ea522, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/GoPrefab/ARManager.prefab
+Dependencies: []

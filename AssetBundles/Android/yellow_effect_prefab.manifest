@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2680479328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 396fd209f887fd9df9281f9f9efddd79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d92a10667c6e904c76288ecfbb16c7ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd4345712176af348b31d3f2dc867fa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8410750655a2d2f489c642c14c30aaec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c9f25f95f6634a448ff7a6fd69239ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Effect/Yellow_Effect.prefab
+Dependencies: []
